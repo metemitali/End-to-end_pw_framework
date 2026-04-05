@@ -1,0 +1,31 @@
+{
+  coord: { lon: 77.2167, lat: 28.6667 },
+  weather: [
+    {
+      id: 802,
+      main: 'Clouds',
+      description: 'scattered clouds',
+      icon: '03n'
+    }
+  ],
+  base: 'stations',
+  main: {
+    temp: 300.81,
+    feels_like: 299.88,
+    temp_min: 300.81,
+    temp_max: 300.81,
+    pressure: 1007,
+    humidity: 27,
+    sea_level: 1007,
+    grnd_level: 982
+  },
+  visibility: 10000,
+  wind: { speed: 2.33, deg: 298, gust: 4.98 },
+  clouds: { all: 31 },
+  dt: 1775406833,
+  sys: { country: 'IN', sunrise: 1775349410, sunset: 1775394639 },
+  timezone: 19800,
+  id: 1273294,
+  name: 'Delhi',
+  cod: 200
+}

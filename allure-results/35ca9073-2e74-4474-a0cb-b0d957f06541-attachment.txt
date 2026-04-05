@@ -1,0 +1,11 @@
+{
+  bookingid: 3267,
+  booking: {
+    firstname: 'Fabiola',
+    lastname: 'Kuvalis',
+    totalprice: 2427,
+    depositpaid: false,
+    bookingdates: { checkin: '2026-04-05', checkout: '2026-04-10' },
+    additionalneeds: 'super bowls'
+  }
+}
